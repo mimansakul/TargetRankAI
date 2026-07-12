@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -10,46 +9,82 @@
 
 <link rel="stylesheet" href="css/style.css">
 
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
 
-<header>
+<header class="hero">
 
-<h1>TargetRankAI</h1>
+<div class="overlay">
 
-<p>
+<h1>🧬 TargetRankAI</h1>
+
+<p class="subtitle">
 Machine Learning-Assisted Therapeutic Target Prioritization
-using Human Tuberculosis RNA-seq
+from Human Tuberculosis RNA-seq Data
 </p>
+
+<div class="buttons">
+
+<a href="https://github.com/mimansakul/TargetRankAI" target="_blank">
+GitHub Repository
+</a>
+
+<a href="../README.md">
+Documentation
+</a>
+
+</div>
+
+</div>
 
 </header>
 
-<nav>
+<section class="stats">
 
-<a href="#overview">Overview</a>
-<a href="#dataset">Dataset</a>
-<a href="#workflow">Workflow</a>
-<a href="#results">Results</a>
-<a href="#ml">Machine Learning</a>
+<div class="card">
+<h2>40,829</h2>
+<p>Genes Quantified</p>
+</div>
 
-</nav>
+<div class="card">
+<h2>486</h2>
+<p>Significant Genes</p>
+</div>
 
-<section id="overview">
+<div class="card">
+<h2>5</h2>
+<p>ML Models</p>
+</div>
+
+<div class="card">
+<h2>4</h2>
+<p>RNA-seq Samples</p>
+</div>
+
+</section>
+
+<section class="about">
 
 <h2>Project Overview</h2>
 
 <p>
 
-TargetRankAI is an end-to-end RNA-seq analysis pipeline
-developed for therapeutic target prioritization using
-machine learning.
+TargetRankAI is an end-to-end RNA-seq bioinformatics workflow that combines differential expression analysis, functional enrichment, and machine learning to prioritize candidate therapeutic targets associated with human tuberculosis.
 
 </p>
 
 </section>
 
-<script src="js/script.js"></script>
+<section class="workflow">
+
+<h2>RNA-seq Workflow</h2>
+
+<p><strong>Workflow diagram coming soon.</strong></p>
+
+</section>
 
 </body>
 

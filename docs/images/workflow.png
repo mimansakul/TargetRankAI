@@ -1,0 +1,34 @@
+GEO Dataset
+      │
+      ▼
+ SRA Toolkit
+      │
+      ▼
+ FASTQ Generation
+      │
+      ▼
+ FastQC → MultiQC
+      │
+      ▼
+ fastp
+      │
+      ▼
+ HISAT2
+      │
+      ▼
+ SAMtools
+      │
+      ▼
+ featureCounts
+      │
+      ▼
+ DESeq2
+      │
+      ▼
+ GO + KEGG
+      │
+      ▼
+ Machine Learning
+      │
+      ▼
+ TargetRankAI
