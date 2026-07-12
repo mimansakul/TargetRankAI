@@ -1,0 +1,4 @@
+Error reading _offs[] array: 8866, 14338
+Error: Encountered internal HISAT2 exception (#1)
+Command: /home/mimansa/miniconda3/envs/targetrankai/bin/hisat2-align-s --wrapper basic-0 -p 12 -x reference/index/grch38/genome -S results/alignment/SRR15997661.sam --read-lengths 101,100,93,99,97,98,96,95,94,89,87,90,88,92,91,85,77,76,81,80,78,75,70,86,84,83,82,79,74,73,72,65,48,69,68,67,66,62,52,71,61,59,58,51,50,40,35,34,33 -1 /tmp/1669.inpipe1 -2 /tmp/1669.inpipe2 
+(ERR): hisat2-align exited with value 1

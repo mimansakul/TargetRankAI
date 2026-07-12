@@ -1,0 +1,15 @@
+Status	results/bam/SRR15997661.sorted.bam	results/bam/SRR15997665.sorted.bam	results/bam/SRR15997683.sorted.bam	results/bam/SRR15997686.sorted.bam
+Assigned	29200597	74410970	31781158	24650631
+Unassigned_Unmapped	1322141	2413352	1766564	891179
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	15859467	30210408	23933923	11730280
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	22720062	39263702	24887064	21882431
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	5179679	13560747	6611357	4534773

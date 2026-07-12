@@ -1,0 +1,73 @@
+############################
+# RAW DATA
+############################
+data/raw/
+data/fastq/
+data/trimmed_fastq/
+data/processed/
+
+############################
+# ALIGNMENTS
+############################
+results/alignment/
+results/bam/
+
+*.sam
+*.bam
+*.bai
+
+############################
+# QC REPORTS
+############################
+results/fastqc/
+results/fastqc_trimmed/
+results/multiqc/
+results/multiqc_trimmed/
+results/fastp/
+
+############################
+# LARGE REFERENCES
+############################
+reference/index/
+reference/*.fa
+reference/*.fasta
+reference/*.fai
+reference/*.gz
+reference/*.tar.gz
+
+############################
+# CACHE
+############################
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+############################
+# R
+############################
+.Rhistory
+.RData
+
+############################
+# TEMP
+############################
+tmp/
+
+############################
+# LARGE ANALYSIS OUTPUTS
+############################
+results/counts/gene_counts.txt
+results/deseq2/deseq2_results.csv
+results/deseq2/deseq2_results_annotated.csv
+results/deseq2/deseq2_results_clean.csv
+results/deseq2/normalized_counts.csv
+
+############################
+# OPTIONAL LARGE REFERENCE
+############################
+reference/gencode.v49.annotation.gtf
+
+# GEO metadata
+data/metadata/*.soft
+data/metadata/*series_matrix.txt
+data/metadata/SraRunTable.csv

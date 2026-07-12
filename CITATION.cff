@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use TargetRankAI, please cite it as below."
+title: "TargetRankAI"
+type: software
+
+authors:
+  - family-names: "Kulshrestha"
+    given-names: "Mimansa"
+
+version: "1.0.0"
+
+date-released: "2026-07-12"
+
+license: MIT
+
+abstract: >
+  Machine Learning-Assisted Therapeutic Target Prioritization
+  from Human Tuberculosis RNA-seq Data.
+
+keywords:
+  - RNA-seq
+  - Bioinformatics
+  - Machine Learning
+  - Tuberculosis
+  - Differential Expression
+  - DESeq2
+  - HISAT2
+  - Therapeutic Target Prioritization
