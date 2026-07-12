@@ -1,4 +1,4 @@
-# 🧬 TargetRankAI
+#  TargetRankAI
 
 Machine Learning-Assisted Therapeutic Target Prioritization from Human Tuberculosis RNA-seq Data
 
